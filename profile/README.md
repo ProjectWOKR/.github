@@ -1,4 +1,6 @@
 # 📅 WOKR
+SA : https://docs.google.com/spreadsheets/d/1USRapaeN9yf-7opsdcRqZCSdSzRHu4KRvUTAucPB5R8/edit?usp=sharing
+MVP Wireframe : https://1drv.ms/p/s!AonMNKpvAJ7vhMcLD-JLZVGSie35vg?e=B34y1v
 
 ## 🖊 프로젝트 소개 | About us
 
