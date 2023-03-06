@@ -1,6 +1,8 @@
 # 📅 WOKR
 SA : https://docs.google.com/spreadsheets/d/1USRapaeN9yf-7opsdcRqZCSdSzRHu4KRvUTAucPB5R8/edit?usp=sharing </br>
 MVP Wireframe : https://1drv.ms/p/s!AonMNKpvAJ7vhMcLD-JLZVGSie35vg?e=B34y1v
+API : https://moons-organization-3.gitbook.io/wokr-api/mvp-1/user/undefined
+Figma : https://www.figma.com/file/exydMq9M36EqI5ryhHSoRI/Untitled?node-id=4%3A2&t=rj324Nu10XNkRcpN-0
 
 ## 🖊 프로젝트 소개 | About us
 
