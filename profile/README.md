@@ -1,9 +1,8 @@
 # 📅 WOKR
-SA : https://docs.google.com/spreadsheets/d/1USRapaeN9yf-7opsdcRqZCSdSzRHu4KRvUTAucPB5R8/edit?usp=sharing </br>
+SA : [https://docs.google.com/spreadsheets/d/1USRapaeN9yf-7opsdcRqZCSdSzRHu4KRvUTAucPB5R8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1H-CD4Buk0E0MNhbW9y8sitnzES89lddnydBOOHobKp8/edit#gid=716942419) </br>
 MVP Wireframe : https://1drv.ms/p/s!AonMNKpvAJ7vhMcLD-JLZVGSie35vg?e=B34y1v </br>
 API : https://moons-organization-3.gitbook.io/wokr-api/mvp-1/user/undefined </br>
 Figma : https://www.figma.com/file/exydMq9M36EqI5ryhHSoRI/Untitled?node-id=4%3A2&t=rj324Nu10XNkRcpN-0 </br>
-S3 : http://projectwokr.s3-website.ap-northeast-2.amazonaws.com/
 
 ## 🖊 프로젝트 소개 | About us
 
